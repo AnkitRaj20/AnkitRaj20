@@ -1,3 +1,89 @@
+# Hi there, I'm Ankit Raj! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitRaj20&color=lightgrey)
+
+## 🚀 About Me
+I am a passionate software developer with a keen interest in creating efficient and innovative solutions to real-world problems. My journey in technology is driven by curiosity and a desire to continuously improve my skills.
+
+- 🔭 I’m currently working on [YourCurrentProject](https://github.com/AnkitRaj20/YourCurrentProject)
+- 🌱 I’m currently learning [NewTechnology/Skill]
+- 👯 I’m looking to collaborate on [RelevantProjects/Technologies]
+- 🤔 I’m looking for help with [ChallengesYouNeedHelpWith]
+- 💬 Ask me about [YourExpertiseAreas]
+- 📫 How to reach me: [YourEmail@example.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: [SomethingInterestingAboutYou]
+
+## 🛠️ Technologies & Tools
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat&logo=tailwind-css)
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-black?style=flat&logo=api)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+- **Tools & Technologies:** ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack) ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat&logo=sequelize) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
+- **Other:** ![JWT Authentication](https://img.shields.io/badge/-JWT_Authentication-black?style=flat&logo=json-web-tokens) ![OAuth](https://img.shields.io/badge/-OAuth-black?style=flat&logo=oauth)
+
+## 📈 GitHub Stats
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitRaj20&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRaj20&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AnkitRaj20)
+
+## 📚 Featured Projects
+
+### [NayiNaukri](https://github.com/AnkitRaj20/NayiNaukri)
+NayiNaukri is an online platform that connects job seekers with employers. These websites provide a centralized location for job postings, allowing individuals to search and apply for jobs in various industries and locations. Job websites have become an essential tool in the job search process, providing convenient access to job opportunities and a means for employers to reach a wide pool of potential candidates.
+
+**Status:** Live
+
+**Features:**
+1. Job Post
+2. Job Search
+3. Job Seeker Profile
+4. Job Provider Profile
+5. Job Apply
+6. Job Seeker Dashboard
+7. Job Provider Dashboard
+8. Job Seeker Profile Posting
+
+**Tech Used:** Next.js, MongoDB, Tailwind CSS
+
+### [JoyMaker](https://github.com/AnkitRaj20/JoyMaker)
+JoyMaker helps you to donate money, food, clothes, etc. It is ideal for people who want to help the poor by donating or feeding them. People can register and become volunteers to provide any of these services. Working on the COVID-19 response since the beginning of the crisis, JoyMaker is evolving its approach with changing needs on the ground.
+
+**Status:** Ready
+
+**Features:**
+1. Razorpay Payment Gateway Integration
+2. Donate Money
+3. Donate Cooked or Raw Food
+4. Donate Clothes
+5. Forgot Password
+
+**Tech Used:** HTML, CSS, JS, PHP, MySQL
+
+### [Personal Portfolio](https://github.com/AnkitRaj20/PersonalPortfolio)
+This project is a personal portfolio website showcasing my skills and projects. It features a sleek and modern design implemented with Next.js, Tailwind CSS, ShadcnUI, and Framer Motion.
+
+**Status:** Live
+
+**Features:**
+1. Sleek and modern design
+2. Built with Next.js
+3. Animated transitions
+4. ShadcnUI
+
+**Tech Used:** Next.js, Tailwind CSS
+
+<!-- BLOG-POST-LIST:START
+## 📝 Blog Posts
+- [How I Built a Full-Stack Application](https://yourblog.com/post1)
+- [Understanding Asynchronous JavaScript](https://yourblog.com/post2)
+- [Guide to Spring Boot](https://yourblog.com/post3)
+BLOG-POST-LIST:END -->
+<!--
 ## Hi there, I'm Ankit raj 👋
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)**, and currently working as a **Backend Developer** with **Node.js** and **MySQL** using **Sequelize**. I enjoy building scalable and efficient applications, solving complex problems, and contributing to the open-source tecj community. Here, you'll find a collection of projects that I'm working on, as well as repositories that showcase my skills and interests.
@@ -22,6 +108,9 @@ I'm a full-stack developer with experience in building both web applications. I 
 - **Other**: JWT Authentication, OAuth
 
 ## 🌍 Let's Connect
+-->
+
+<!---------END-------------------->
 
 <!--
 ## 🔥 Featured Projects

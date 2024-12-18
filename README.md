@@ -27,7 +27,7 @@ I'm a full-stack developer with experience in building both web applications. I 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRaj20&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AnkitRaj20)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankit-raj-716781254/) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/Ankit_raj_177) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AnkitRaj20)
 
 ## 📚 Featured Projects
 

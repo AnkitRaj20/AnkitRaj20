@@ -3,16 +3,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitRaj20&color=lightgrey)
 
 ## 🚀 About Me
-I am a passionate software developer with a keen interest in creating efficient and innovative solutions to real-world problems. My journey in technology is driven by curiosity and a desire to continuously improve my skills.
+I'm a full-stack developer with experience in building both web applications. I specialize in JavaScript (Node.js, React, Next Js). I enjoy solving complex problems and love learning new technologies.I have a strong passion for both front-end and back-end development. Currently, my focus is on building backend systems, working with APIs, and designing efficient database schemas.
 
-- 🔭 I’m currently working on [YourCurrentProject](https://github.com/AnkitRaj20/YourCurrentProject)
-- 🌱 I’m currently learning [NewTechnology/Skill]
-- 👯 I’m looking to collaborate on [RelevantProjects/Technologies]
-- 🤔 I’m looking for help with [ChallengesYouNeedHelpWith]
-- 💬 Ask me about [YourExpertiseAreas]
-- 📫 How to reach me: [YourEmail@example.com]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: [SomethingInterestingAboutYou]
+- 🔭 I’m currently working as a **Backend Developer** where I work on building RESTful APIs and integrating with MySQL databases using Sequelize.
+- 🌱 I’m constantly improving my skills in **Node.js**, **Express**, **Sequelize**, and **MySQL** to build more robust backend solutions.
+- 👯 I’m open to collaborating on **full-stack projects**, particularly those that involve **MERN** technologies and **Node.js** APIs.
+- 💬 Ask me about **JavaScript**, **Node.js**, **MySQL**, **Sequelize**, **API development**, or **backend architecture**.
+- 📫 How to reach me: [ankit21654@gmail.com](mailto:ankit21654@gmail.com)
+- ⚡ Fun fact: I love building side projects in my free time and always stay up-to-date with the latest trends in web development.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sql)
@@ -33,7 +31,7 @@ I am a passionate software developer with a keen interest in creating efficient 
 
 ## 📚 Featured Projects
 
-### [NayiNaukri](https://github.com/AnkitRaj20/NayiNaukri)
+### [NayiNaukri](https://nayinaukri.netlify.app)
 NayiNaukri is an online platform that connects job seekers with employers. These websites provide a centralized location for job postings, allowing individuals to search and apply for jobs in various industries and locations. Job websites have become an essential tool in the job search process, providing convenient access to job opportunities and a means for employers to reach a wide pool of potential candidates.
 
 **Status:** Live
@@ -50,7 +48,7 @@ NayiNaukri is an online platform that connects job seekers with employers. These
 
 **Tech Used:** Next.js, MongoDB, Tailwind CSS
 
-### [JoyMaker](https://github.com/AnkitRaj20/JoyMaker)
+### [JoyMaker](https://github.com/AnkitRaj20/joymaker/tree/main)
 JoyMaker helps you to donate money, food, clothes, etc. It is ideal for people who want to help the poor by donating or feeding them. People can register and become volunteers to provide any of these services. Working on the COVID-19 response since the beginning of the crisis, JoyMaker is evolving its approach with changing needs on the ground.
 
 **Status:** Ready
@@ -64,7 +62,7 @@ JoyMaker helps you to donate money, food, clothes, etc. It is ideal for people w
 
 **Tech Used:** HTML, CSS, JS, PHP, MySQL
 
-### [Personal Portfolio](https://github.com/AnkitRaj20/PersonalPortfolio)
+### [Personal Portfolio](https://ankitcodes.vercel.app/)
 This project is a personal portfolio website showcasing my skills and projects. It features a sleek and modern design implemented with Next.js, Tailwind CSS, ShadcnUI, and Framer Motion.
 
 **Status:** Live

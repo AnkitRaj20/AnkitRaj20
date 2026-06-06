@@ -29,24 +29,134 @@ I'm a full-stack developer with experience in building both web applications. I 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankit-raj-716781254/) [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/Ankit_raj_177) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/AnkitRaj20)
 
+
 ## 📚 Featured Projects
 
-### [NayiNaukri](https://nayinaukri.netlify.app)
-NayiNaukri is an online platform that connects job seekers with employers. These websites provide a centralized location for job postings, allowing individuals to search and apply for jobs in various industries and locations. Job websites have become an essential tool in the job search process, providing convenient access to job opportunities and a means for employers to reach a wide pool of potential candidates.
+### 🚀 [YouHired](https://www.youhired.cloud)
 
-**Status:** Live
+**AI-Powered Career Platform for Developers**
 
-**Features:**
-1. Job Post
-2. Job Search
-3. Job Seeker Profile
-4. Job Provider Profile
-5. Job Apply
-6. Job Seeker Dashboard
-7. Job Provider Dashboard
-8. Job Seeker Profile Posting
+YouHired helps developers build professional portfolios, create ATS-friendly resumes, discover relevant job opportunities, and optimize applications using AI-powered insights—all from a single platform.
 
-**Tech Used:** Next.js, MongoDB, Tailwind CSS
+Instead of switching between portfolio builders, resume tools, deployment platforms, and job boards, developers can manage their entire career workflow in one place.
+
+**Status:** Live & Actively Growing
+
+---
+
+### ✨ Core Features
+
+#### 🐙 GitHub Auto Import
+
+* Import repositories, projects, skills, and profile information directly from GitHub.
+* Generate portfolio content automatically from real development work.
+* Keep developer profiles synchronized with GitHub activity.
+
+#### 🎨 Portfolio Builder
+
+* Create professional developer portfolios without coding.
+* Multiple modern portfolio templates.
+* Responsive and SEO-friendly designs.
+* Custom branding support.
+
+#### 🚀 One-Click Vercel Deployment
+
+* Deploy portfolios instantly with a single click.
+* No manual hosting configuration required.
+* Fast and production-ready deployment workflow.
+
+#### 📄 ATS-Friendly Resume Builder
+
+* Build resumes optimized for Applicant Tracking Systems (ATS).
+* Professional resume templates.
+* PDF export support.
+* Structured resume sections and formatting.
+
+#### 🤖 AI Resume Tailoring
+
+* Analyze job descriptions automatically.
+* Customize resumes for specific job applications.
+* Highlight relevant skills, projects, and experience.
+* Improve resume-job alignment for better interview chances.
+
+#### 📥 Resume Parsing
+
+* Upload an existing resume and extract structured data automatically.
+* Convert resumes into editable profiles.
+* Save time rebuilding resumes from scratch.
+
+#### 📊 AI Resume Scoring
+
+* Compare resumes against job descriptions.
+* Generate compatibility scores.
+* Receive actionable recommendations for improvement.
+* Identify missing keywords and requirements.
+
+#### 🎯 Job Match Analytics
+
+* Skill gap analysis.
+* Keyword matching insights.
+* Missing requirement detection.
+* Resume optimization suggestions.
+
+#### 💼 Personalized Job Recommendations
+
+* Discover jobs based on skills, technologies, projects, and experience.
+* Intelligent matching engine for relevant opportunities.
+* Developer-focused job discovery workflow.
+
+#### 📧 Weekly Job Alerts
+
+* Personalized job recommendations delivered directly via email.
+* Curated opportunities based on user profiles and preferences.
+
+#### 📈 Analytics Dashboard
+
+* Portfolio visitor analytics.
+* Engagement insights.
+* Performance tracking.
+
+#### ⭐ Premium Career Tools
+
+* Advanced resume optimization.
+* Enhanced job matching.
+* Detailed AI-powered application insights.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+* React.js
+* TypeScript
+* Tailwind CSS
+* Shadcn UI
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+
+**Integrations**
+
+* GitHub oAuth 
+* Vercel Integration For Deployment
+* AI API
+* Job Search APIs
+* Email Automation Systems
+
+---
+
+### 🎯 Mission
+
+Help developers spend less time formatting resumes and portfolios, and more time building, applying, and getting hired.
+
 
 ### [JoyMaker](https://github.com/AnkitRaj20/joymaker/tree/main)
 JoyMaker helps you to donate money, food, clothes, etc. It is ideal for people who want to help the poor by donating or feeding them. People can register and become volunteers to provide any of these services. Working on the COVID-19 response since the beginning of the crisis, JoyMaker is evolving its approach with changing needs on the ground.
@@ -62,7 +172,7 @@ JoyMaker helps you to donate money, food, clothes, etc. It is ideal for people w
 
 **Tech Used:** HTML, CSS, JS, PHP, MySQL
 
-### [Personal Portfolio](https://ankitcodes.vercel.app/)
+### [Personal Portfolio](https://ankitcodes.tech/)
 This project is a personal portfolio website showcasing my skills and projects. It features a sleek and modern design implemented with Next.js, Tailwind CSS, ShadcnUI, and Framer Motion.
 
 **Status:** Live

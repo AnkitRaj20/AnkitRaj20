@@ -20,9 +20,6 @@ I'm a full-stack developer with experience in building both web applications. I 
 - **Tools & Technologies:** ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack) ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat&logo=sequelize) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
 - **Other:** ![JWT Authentication](https://img.shields.io/badge/-JWT_Authentication-black?style=flat&logo=json-web-tokens) ![OAuth](https://img.shields.io/badge/-OAuth-black?style=flat&logo=oauth)
 
-- [![Ankit Raj profile views](https://u8views.com/api/v1/github/profiles/85890299/views/day-week-month-total-count.svg)](https://u8views.com/github/AnkitRaj20)
-- <a href="https://u8views.com/github/AnkitRaj20"><img src="https://u8views.com/api/v1/github/profiles/85890299/views/day-week-month-total-count.svg"></a>
-
 ## 📈 GitHub Stats
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitRaj20&show_icons=true&theme=radical)
 
